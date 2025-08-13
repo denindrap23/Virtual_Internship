@@ -1,4 +1,4 @@
-# Virtual_Internship
+# Virtual Internship x Rakamin Academy
 
 ## 2. Project: Product Recommendation dengan RICE Framework  
 **Peran:** Product & Business Development Intern  
