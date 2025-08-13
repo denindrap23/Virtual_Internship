@@ -1,4 +1,4 @@
-# Ringkasan Proyek: Credit Scoring dengan Machine Learning  
+# Project: Credit Scoring dengan Machine Learning  
 **Peran:** Data Scientist Intern  
 **Perusahaan:** Home Credit Indonesia  
 **Metode Analisis:** Machine Learning (Logistic Regression)
